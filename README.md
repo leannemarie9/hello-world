@@ -1,3 +1,3 @@
 # hello-world
 First ever repository!
-My name is Leanne 
+My name is Leanne :)
